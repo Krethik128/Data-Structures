@@ -1,4 +1,4 @@
-package gevernova.datastrucutures.stack.stockSpan;
+package gevernova.datastrucutures.stack;
 
 import java.util.Stack;
 

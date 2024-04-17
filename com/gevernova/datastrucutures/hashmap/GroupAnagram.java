@@ -1,4 +1,4 @@
-package gevernova.datastrucutures.hashMap;
+package gevernova.datastrucutures.hashmap;
 
 import java.util.*;
 

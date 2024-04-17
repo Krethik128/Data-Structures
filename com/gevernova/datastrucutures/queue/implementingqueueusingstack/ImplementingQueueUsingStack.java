@@ -1,4 +1,4 @@
-package gevernova.datastrucutures.queue.implementingQueueUsingStack;
+package gevernova.datastrucutures.queue.implementingqueueusingstack;
 
 public class ImplementingQueueUsingStack {
 

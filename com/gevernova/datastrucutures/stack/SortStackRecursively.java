@@ -1,4 +1,4 @@
-package gevernova.datastrucutures.stack.sortStackRecursively;
+package gevernova.datastrucutures.stack;
 
 import java.util.Stack;
 
